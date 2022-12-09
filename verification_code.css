@@ -29,11 +29,12 @@ html {
   text-align: center;
   margin: 0 4px;
 }
+
 .otp-input:focus {
-    outline: none;
-    border: 2px solid #9db8f5;
-  }
-  
+  outline: none;
+  border: 2px solid #9db8f5;
+}
+
 
 .foot-note {
   background-color: #eeeeee;
